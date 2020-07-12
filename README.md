@@ -5,9 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.la1999@gmail.com)](mailto:matheus.la1999@gmail.com)
 
 ## Back-End Developer
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 My name is Matheus Abreu, future computer scientist.
 
-- :office_worker: Software Engineer at **GetNet** by **SouthSystem**
+- :office_worker: Software Engineer at **[GetNet](https://site.getnet.com.br/)** by **[SouthSystem](https://southsystem.com.br/)**
 -  🚀 **Node.js** and **Java**
 - :books: Student of computer science in **Laureate Uniritter**
