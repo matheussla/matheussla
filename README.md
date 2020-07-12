@@ -9,5 +9,5 @@
 My name is Matheus Abreu, future computer scientist.
 
 - :office_worker: Software Engineer at **GetNet** by **SouthSystem**
--  🚀: **Node.js** and **Java**
+-  🚀 **Node.js** and **Java**
 - :books: Student of computer science in **Laureate Uniritter**
