@@ -7,7 +7,7 @@
 ## Back-End Developer
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-My name is Matheus Abreu. I'am future computer scientist.
+My name is Matheus Abreu. I'am a future computer scientist.
 
 - :office_worker: Software Engineer at **[GetNet](https://site.getnet.com.br/)** by **[SouthSystem](https://southsystem.com.br/)**
 -  🚀 **Node.js** and **Java**
