@@ -9,6 +9,5 @@
 
 My name is Matheus Abreu. I'am a future computer scientist.
 
-- :office_worker: Software Engineer at **[Tui](https://stay.tui.com/pt)**
 -  🚀 **Node.js** and **Java**
 - :books: Student of computer science in **Laureate Uniritter**
