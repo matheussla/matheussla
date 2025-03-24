@@ -7,7 +7,4 @@
 ## Back-End Developer
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-My name is Matheus Abreu. I'am a future computer scientist.
-
 -  🚀 **Node.js** and **Java**
-- :books: Student of computer science in **Laureate Uniritter**
