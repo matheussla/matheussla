@@ -4,8 +4,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa293cXRpMjhjYXozZmZ2aHJ5cHU0MnpqdG51dmVwYnVieDh5OWs4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="360" alt="coding-gif" />
 </div>
 
----
-
 ## 🚀 About Me
 
 Hi there! I'm **Matheus Abreu**, a passionate **Back-End Developer** with a focus on creating scalable, secure, and high-performance systems.  
