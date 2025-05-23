@@ -32,7 +32,7 @@ My personal portfolio site built with:
 - MDX blog support
 - SEO optimizations, sitemap, RSS, and JSON-LD
 - Vercel analytics & performance insights  
-→ [Visit it here »](https://matheus-abreu-dev.vercel.app)
+→ [Visit it here »](https://www.matheusabreu.dev/)
 
 ---
 
