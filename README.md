@@ -1,38 +1,18 @@
 # 👨‍💻 Matheus Abreu
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa293cXRpMjhjYXozZmZ2aHJ5cHU0MnpqdG51dmVwYnVieDh5OWs4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="360" alt="coding-gif" />
-</div>
+Hi there! I'm **Matheus Abreu**, a **Senior Software Engineer** passionate about building scalable, secure, and high-performance systems.  
+I specialize in **event-driven architectures**, **enterprise APIs**, and **cloud-native applications**.
 
-## 🚀 About Me
+- 🧠 **Languages:** JavaScript • TypeScript • Java  
+- 🛠 **Frameworks:** Node.js • NestJS • Spring Boot  
+- 🗄️ **Databases:** PostgreSQL • MongoDB • Oracle • DynamoDB
+- ☁️ **Cloud & Infra:** AWS (SQS, Lambda, EC2, S3) • Vercel  
+- 📦 **Message Queues:** RabbitMQ • Amazon SQS • Kafka
+- ⚙️ **Dev Tools:** Docker • GitHub Actions • Postman  
+- 🧪 **Testing:** Jest • Supertest • Mock Service Worker  
+- ✨ **Front-End:** React • Next.js • Tailwind CSS  
 
-Hi there! I'm **Matheus Abreu**, a passionate **Back-End Developer** with a focus on creating scalable, secure, and high-performance systems.  
-I have solid experience working with enterprise-grade APIs, cloud infrastructure, and real-time event-driven architectures.
-
-- 🧠 Languages: **JavaScript**, **TypeScript**, **Java**
-- 🛠 Frameworks: **Node.js**, **NestJS**, **Spring Boot**
-- 🗄️ Databases: **PostgreSQL**, **MongoDB**, **Oracle**
-- ☁️ Cloud: **AWS** (SQS, Lambda, EC2), **Vercel**
-- 📦 Message Queues: **RabbitMQ**, **Amazon SQS**
-- ⚙️ Dev Tools: **Docker**, **GitHub Actions**, **Jest**, **Postman**
-- 🧪 Testing: **Jest**, **Supertest**, **Mock Service Worker**
-- ✨ Also working with: **React**, **Next.js**, **Tailwind CSS** for side projects and UI integrations.
-
----
-
-## 📌 Featured Project
-
-### [📂 Portfolio Site](https://www.matheusabreu.dev/)
-
-My personal portfolio site built with:
-
-- Next.js (App Router)
-- Tailwind CSS v4
-- TypeScript
-- MDX blog support
-- SEO optimizations, sitemap, RSS, and JSON-LD
-- Vercel analytics & performance insights  
-→ [Visit it here »](https://www.matheusabreu.dev/)
+### [🌐 Portfolio Website](https://www.matheusabreu.dev/)
 
 ---
 
@@ -45,13 +25,14 @@ My personal portfolio site built with:
 
 ---
 
-## 📫 Reach Me
+## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/matheus-abreu-087768182)  
 - 💻 [GitHub](https://github.com/matheussla)  
 - ✍️ [Medium](https://medium.com/@matheus.la)  
-- 📧 [Email](mailto:matheus.la1999@gmail.com)
+- 📧 [Email](mailto:matheus.la1999@gmail.com)  
 
 ---
 
-Thanks for stopping by! 🚀
+Thanks for stopping by! 🚀  
+
