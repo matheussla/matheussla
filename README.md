@@ -25,14 +25,5 @@ I specialize in **event-driven architectures**, **enterprise APIs**, and **cloud
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-abreu-087768182)  
-- 💻 [GitHub](https://github.com/matheussla)  
-- ✍️ [Medium](https://medium.com/@matheus.la)  
-- 📧 [Email](mailto:matheus.la1999@gmail.com)  
-
----
-
 Thanks for stopping by! 🚀  
 
